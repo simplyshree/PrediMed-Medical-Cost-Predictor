@@ -4,7 +4,7 @@
 
 This project uses machine learning to predict **medical insurance charges** based on patient features like age, sex, BMI, smoking status, and region.
 
-LIVE : https://9ccf7e6c5f4a457bd1.gradio.live/
+LIVE : https://ed4a20bc424bf52941.gradio.live/
 
 ---
 
