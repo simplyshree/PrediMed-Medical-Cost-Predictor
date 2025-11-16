@@ -4,6 +4,8 @@
 
 This project uses machine learning to predict **medical insurance charges** based on patient features like age, sex, BMI, smoking status, and region.
 
+LIVE : https://9ccf7e6c5f4a457bd1.gradio.live/
+
 ---
 
 ## 🔧 Tools & Libraries
@@ -11,6 +13,7 @@ This project uses machine learning to predict **medical insurance charges** base
 - Python, NumPy, Pandas , Matplotlib , Seaborn 
 - Scikit-learn (`RandomForestRegressor`, `StandardScaler`, `RandomizedSearchCV`)
 - Metrics: R² Score
+
 
 ---
 
