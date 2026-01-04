@@ -10,7 +10,7 @@ document.getElementById("predictForm").addEventListener("submit", async function
         region: region.value
     };
 
-    document.getElementById("result").innerText = "🌸 Calculating gently...";
+    document.getElementById("result").innerText = "🌸 Calculating...";
     document.getElementById("happy").innerText = "";
 
     const response = await fetch("https://predimed.onrender.com", {
